@@ -1,4 +1,5 @@
 //Copyright 2021
+//Will Porter
 #include "Bank_Simulator.h"
 using std::cout;
 using std::cin;
