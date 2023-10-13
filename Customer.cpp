@@ -1,4 +1,5 @@
 //Copyright 2021
+//Will Porter
 #include "Customer.h"
 #include "Random.h"
 extern Random myrandom;
