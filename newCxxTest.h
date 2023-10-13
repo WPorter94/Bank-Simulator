@@ -1,4 +1,5 @@
 //Copyright 2021
+//Will Porter
 #ifndef NEWCXXTEST_H
 #define NEWCXXTEST_H
 
